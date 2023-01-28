@@ -1,3 +1,4 @@
+PREVIOUS CODE:
 Crimson
 Orange
 Green
@@ -9,5 +10,20 @@ Coral
 Silver
 Fuchsia
 Gray
+Brown
+Red
+
+UPDATED CODE:
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Coral
+Silver
+Fuchsia
+Purple
 Brown
 Red
